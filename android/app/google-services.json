@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "935993183122",
+    "project_id": "shrawne-fashion-park",
+    "storage_bucket": "shrawne-fashion-park.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935993183122:android:5af64ebdb3f21c89444f4b",
+        "android_client_info": {
+          "package_name": "com.example.fashion_ecommerce_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo0YFDstKmrp-w7U-IAkEd0odT6tKdx-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
