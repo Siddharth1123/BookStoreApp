@@ -94,7 +94,7 @@ class _add_new_catState extends State<add_new_cat> {
                       var status = await Permission.storage.request();
                       print(status);
                       if (status.isGranted) {
-                        print("granted");
+                        print("granted 10");
                         try {
                           // Display the grid view
                           showModalBottomSheet(

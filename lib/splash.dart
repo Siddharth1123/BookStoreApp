@@ -43,7 +43,7 @@ class _splashState extends State<splash> {
         child: Container(
           width: 300,
           height: 300,
-          child: Image.asset('assets/54963889.png'),
+          child: Image.asset('assets/team logo.png'),
         ),
       ),
     );
